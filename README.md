@@ -22,6 +22,7 @@ Frontend:
 - React
 - React Router
 - Bootstrap
+
 Backend:
 
 - Node.js
@@ -30,5 +31,5 @@ Backend:
 - MongoDB
 - Mongoose
 - JSON Web Tokens (JWT) for authentication
--
-- ![340ce0a2db6bec8cc47c58861d416ec2](https://github.com/zafeera1/Google-Book-Searcher/assets/142850725/19d9693a-965b-442b-9c8c-ab0f05daecc2)
+
+ ![340ce0a2db6bec8cc47c58861d416ec2](https://github.com/zafeera1/Google-Book-Searcher/assets/142850725/19d9693a-965b-442b-9c8c-ab0f05daecc2)
